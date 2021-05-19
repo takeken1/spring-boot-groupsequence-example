@@ -2,6 +2,20 @@
 
 This is a sample app using javax.validation.GroupSequence annotation.
 
+## Prerequisites
+
+The following must be installed on your machine for this sample app to work.
+
+* Java JDK 11 or later
+* VSCord
+
+## Required VS Code extensions
+
+The extensions that need to be installed are:
+
+* Java Extension Pack
+* Spring Boot Extension Pack
+
 ## Quick Start
 
 ### git clone and open the project in VS Code.
