@@ -7,7 +7,7 @@ This is a sample app using javax.validation.GroupSequence annotation.
 The following must be installed on your machine for this sample app to work.
 
 * Java JDK 11 or later
-* VSCord
+* VSCode
 
 ## Required VS Code extensions
 
